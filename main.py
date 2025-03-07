@@ -52,7 +52,7 @@ def start(message):
             f"✅ 24/7 uptime with premium features\n\n"
             f"✨ To unlock full access, join our official channel:\n"
             f"👉 [Join Main Channel](https://t.me/{CHANNEL_USERNAME})\n"
-            f"👉 [Join Second Channel](https://t.me/{SECOND_CHANNEL})\n\n"
+            f"👉 [Join Second Channel]({SECOND_CHANNEL})\n\n"
             f"⚡ Once joined, use `/start` again and begin your journey!",
             reply_markup=keyboard,
             disable_web_page_preview=True,
