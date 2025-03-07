@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+print("बॉट शुरू हो रहा है...")  # अब कोई एरर नहीं आएगा
 import threading
 import requests
 import telebot
